@@ -1,0 +1,6 @@
+{
+  "flow": "Creates an automation flow to edit and validate a company's products within the Accounts section. \n\nThe flow must perform the following:\n1. Log in to the application correctly.\n2. Navigate to the \"Accounts\" section.\n3. Search for the company \"Automation QA\".\n4. Navigate to the company's \"Account Details\".\n5. Click the \"Edit\" button.\n6. In the \"Attributes\" section, select:\n- \"Attribute Append - GeoCredit\"\n- \"Attribute Append - In-Market Scores\"\n7. Click the \"Save\" button.\n8. Validate that the following selected products appear in the \"Products\" section: \n- \"Attribute Append - GeoCredit\" \n- \"Attribute Append - In-Market Scores\" \n\nThe flow is successful if the selected products are saved correctly and are visible in the \"Products\" section after saving the changes.",
+  "specName": "Provision Products for a Company for the First Time",
+  "type": "fe",
+  "createdAt": "2026-06-17T17:39:59.982Z"
+}

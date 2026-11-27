@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://admin.qa.veriskmarketingsolutions.com/oidc/callback",
+    "accessibilityTree": "- img \"infutor logo\"\n- navigation:\n  - list:\n    - link \"Home\":\n      - /url: /oidc/callback/\n    - link \"Accounts\":\n      - /url: /oidc/callback/accounts\n    - link \"Job Runs\":\n      - /url: /oidc/callback/jobs\n    - link \"SFTP Users\":\n      - /url: /oidc/callback/users\n    - link \"UI Users\":\n      - /url: /oidc/callback/ui-users\n    - link \"Billing\":\n      - /url: /oidc/callback/billing\n    - link \"Activity Logs\":\n      - /url: /oidc/callback/logs\n- img \"infutor icon\"\n- heading \"Hello qatesting@activeprospect.com, Welcome to the First Party Enrichment admin tool.\" [level=1]\n- heading \"To start configuring or editing customer accounts, go to the accounts section on the left.\" [level=2]\n- img"
+  },
+  {
+    "url": "https://admin.qa.veriskmarketingsolutions.com/oidc/callback/billing [Billing]",
+    "accessibilityTree": "- img \"infutor logo\"\n- navigation:\n  - list:\n    - link \"Home\":\n      - /url: /oidc/callback/\n    - link \"Accounts\":\n      - /url: /oidc/callback/accounts\n    - link \"Job Runs\":\n      - /url: /oidc/callback/jobs\n    - link \"SFTP Users\":\n      - /url: /oidc/callback/users\n    - link \"UI Users\":\n      - /url: /oidc/callback/ui-users\n    - link \"Billing\":\n      - /url: /oidc/callback/billing\n    - link \"Activity Logs\":\n      - /url: /oidc/callback/logs\n- img \"infutor icon\"\n- heading \"Billing Report Generation\" [level=2]\n- heading \"Order Count Report\" [level=5]\n- text: \"From:\"\n- textbox\n- text: \"To:\"\n- textbox\n- text: \"Company:\"\n- combobox:\n  - option \"Select a company\" [selected]\n  - option \"Kyle Test Account 3\"\n  - option \"Ana Company Webapp Test\"\n  - option \"Automation QA\"\n- text: \"Type:\"\n- combobox:\n  - option \"Billing\" [selected]\n- button \"Generate\" [disabled]"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "flow": "Creates an automation flow to validate the number of rows and the layout of the output file downloaded from SFTP. \n\nThe flow must perform the following:\n1. Locate the file \"CB_Automation_File_output.csv\" in the local download location.\n2. Validate that the file exists.\n3. Open the file \"CB_Automation_File_output.csv\".\n4. Validate that the file has exactly 21 rows, including the header.\n5. Validate that the file header has the following layout and column order: \n- \"PID\"\n- \"FIRSTNAME\"\n- \"LASTNAME\"\n- \"STREET\"\n- \"CITY\"\n- \"STATE\"\n- \"POSTALCODE\"\n- \"EMAIL\"\n- \"PHONE\"\n- \"Pid\"\n6. Validate that the columns are separated by commas.\n7. Validate that the data is correctly aligned under each corresponding column. \n\nThe flow is successful if the file \"CB_Automation_File_output.csv\" exists, contains exactly 21 rows counting the header, and the header layout exactly matches:\"PID,FIRSTNAME,LASTNAME,STREET,CITY,STATE,POSTALCODE,EMAIL,PHONE,Pid\"",
+  "specName": "check-file-layout-record-count",
+  "type": "sftp",
+  "createdAt": "2026-07-02T22:07:36.121Z"
+}

@@ -1,0 +1,6 @@
+{
+  "flow": "Creates an automation flow to validate the format and content of an output file downloaded from SFTP. \n\nThe flow must perform the following:\n1. Locate the file \"CB_Automation_File_output.csv\" in the local download location.\n2. Validate that the file exists.\n3. Validate that the file extension is \".csv\".\n4. Open the file.\n5. Verify that the data is separated using the \"COMMA\" (,) delimiter.\n6. Validate that the file can be read correctly as a CSV file.\n7. Validate that the columns are correctly separated and all data does not appear in a single column. \n\nThe flow is successful if the file \"CB_Automation_File_output.csv\" exists, has the extension \".csv\", and its content is correctly delimited by commas.",
+  "specName": "check-file-extension-separator",
+  "type": "sftp",
+  "createdAt": "2026-07-02T21:58:50.616Z"
+}

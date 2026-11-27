@@ -1,0 +1,40 @@
+{
+  "flow": "1. User navigates the home page\n2. In Failed Runs should be  0\n3. In Needs attention should be the following message \"No failed job runs in the last 7 days.\"",
+  "specName": "Check Failed Runs",
+  "type": "fe",
+  "createdAt": "2026-11-25T19:42:40.058Z",
+  "createdBy": "karen.fallas@activeprospect.com",
+  "status": "validated",
+  "validation": {
+    "hash": "2930603eb531ad5c8dbdda854ac7531d36fa50c6ae7513adbcf8272f6e9adb57",
+    "required": 3,
+    "passes": 3,
+    "outcome": "passed",
+    "user": "karen.fallas@activeprospect.com",
+    "startedAt": "2026-11-25T22:00:21.391Z",
+    "endedAt": "2026-11-25T22:03:01.330Z",
+    "runs": [
+      {
+        "runId": "33dd5696-6015-4e4c-b843-18cd6e19e674",
+        "at": "2026-11-25T22:01:11.504Z",
+        "user": "karen.fallas@activeprospect.com",
+        "exitCode": 0,
+        "durationMs": 50108
+      },
+      {
+        "runId": "2d464630-514e-4921-82d0-12a83d0b5326",
+        "at": "2026-11-25T22:02:04.075Z",
+        "user": "karen.fallas@activeprospect.com",
+        "exitCode": 0,
+        "durationMs": 52563
+      },
+      {
+        "runId": "5917d9c4-3f78-43cf-b516-0f8268915c50",
+        "at": "2026-11-25T22:03:01.325Z",
+        "user": "karen.fallas@activeprospect.com",
+        "exitCode": 0,
+        "durationMs": 57246
+      }
+    ]
+  }
+}

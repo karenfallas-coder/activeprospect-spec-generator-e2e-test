@@ -1,0 +1,21 @@
+{
+  "status": "draft",
+  "validation": {
+    "hash": "8b7eaf6a86cb386390a8d5d3a5e45a96521bf637c6c66d0cd8c4a2adb68f2427",
+    "required": 3,
+    "passes": 0,
+    "outcome": "failed",
+    "user": "karen.fallas@activeprospect.com",
+    "startedAt": "2026-11-17T18:29:54.500Z",
+    "endedAt": "2026-11-17T18:30:36.532Z",
+    "runs": [
+      {
+        "runId": "0702a857-34fe-46b6-8242-9011dc5cc5c4",
+        "at": "2026-11-17T18:30:36.529Z",
+        "user": "karen.fallas@activeprospect.com",
+        "exitCode": 1,
+        "durationMs": 42025
+      }
+    ]
+  }
+}

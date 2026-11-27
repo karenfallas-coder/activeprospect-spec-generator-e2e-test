@@ -1,0 +1,35 @@
+{
+  "status": "validated",
+  "validation": {
+    "hash": "4849d28b0ddacd8093600ce51a6ba2fbe0cfcbecfc69761d186025ce015e8af6",
+    "required": 3,
+    "passes": 3,
+    "outcome": "passed",
+    "user": "karen.fallas@activeprospect.com",
+    "startedAt": "2026-11-17T18:31:53.611Z",
+    "endedAt": "2026-11-17T18:39:10.764Z",
+    "runs": [
+      {
+        "runId": "dd8df516-6a74-41a2-896f-11fc72b56b96",
+        "at": "2026-11-17T18:32:50.411Z",
+        "user": "karen.fallas@activeprospect.com",
+        "exitCode": 0,
+        "durationMs": 56791
+      },
+      {
+        "runId": "a82924e5-190f-476e-98a2-3da0a9a29a42",
+        "at": "2026-11-17T18:36:25.641Z",
+        "user": "karen.fallas@activeprospect.com",
+        "exitCode": 0,
+        "durationMs": 46812
+      },
+      {
+        "runId": "566c5266-e4d2-47a6-8297-75469fd2f9cb",
+        "at": "2026-11-17T18:39:10.742Z",
+        "user": "karen.fallas@activeprospect.com",
+        "exitCode": 0,
+        "durationMs": 58588
+      }
+    ]
+  }
+}

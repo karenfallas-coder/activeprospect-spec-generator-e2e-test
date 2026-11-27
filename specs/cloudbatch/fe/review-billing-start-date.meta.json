@@ -1,0 +1,6 @@
+{
+  "flow": "1. Log in to the application correctly.\n2. In the main menu, navigate to the \"Billing\" tab.\n3. In the \"From\" field, select the date:-  \"2036-06-01\" (YYYY-MM-DD )\n4. Validate that a pop-up message immediately appears with the following text:- \"Start date cannot exceed present date.\"",
+  "specName": "review-billing-start-date",
+  "type": "fe",
+  "createdAt": "2026-06-29T22:09:07.905Z"
+}
