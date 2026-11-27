@@ -1,5 +1,5 @@
 {
-  "status": "validated",
+  "status": "approved",
   "validation": {
     "hash": "302a741328177be5f3167238639eae74dc06d8e8d7d0a72f87c9cb24f26c0f21",
     "required": 3,
@@ -31,5 +31,9 @@
         "durationMs": 31339
       }
     ]
-  }
+  },
+  "approvedBy": "karen.fallas@activeprospect.com",
+  "approvedAt": "2026-11-27T22:03:44.726Z",
+  "approvedHash": "302a741328177be5f3167238639eae74dc06d8e8d7d0a72f87c9cb24f26c0f21",
+  "approvalPr": "https://github.com/karenfallas-coder/activeprospect-spec-generator-e2e-test/pull/6"
 }
