@@ -1,0 +1,7 @@
+{
+  "flow": "Go to Accounts, search for \"Automation QA\" and verify the company appears in the table.",
+  "specName": "QA - Test Account",
+  "type": "fe",
+  "createdAt": "2026-11-27T22:10:30.582Z",
+  "createdBy": "karen.fallas@activeprospect.com"
+}
