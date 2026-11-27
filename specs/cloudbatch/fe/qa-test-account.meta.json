@@ -3,5 +3,38 @@
   "specName": "QA - Test Account",
   "type": "fe",
   "createdAt": "2026-11-27T22:10:30.582Z",
-  "createdBy": "karen.fallas@activeprospect.com"
+  "createdBy": "karen.fallas@activeprospect.com",
+  "status": "validated",
+  "validation": {
+    "hash": "5cc82354948b72b8fd508b13e11f78d3768293df292e84a66b129ef770ac057e",
+    "required": 3,
+    "passes": 3,
+    "outcome": "passed",
+    "user": "karen.fallas@activeprospect.com",
+    "startedAt": "2026-11-27T22:14:21.152Z",
+    "endedAt": "2026-11-27T22:17:46.960Z",
+    "runs": [
+      {
+        "runId": "3f4fbeb2-3411-4dd1-9a18-83d6d1b5fa74",
+        "at": "2026-11-27T22:15:31.614Z",
+        "user": "karen.fallas@activeprospect.com",
+        "exitCode": 0,
+        "durationMs": 70452
+      },
+      {
+        "runId": "88b2c4e8-76e0-463e-9aa0-6453d5887bb4",
+        "at": "2026-11-27T22:16:41.193Z",
+        "user": "karen.fallas@activeprospect.com",
+        "exitCode": 0,
+        "durationMs": 69576
+      },
+      {
+        "runId": "15a81aa7-8a26-4810-998b-ea216d62bdc6",
+        "at": "2026-11-27T22:17:46.953Z",
+        "user": "karen.fallas@activeprospect.com",
+        "exitCode": 0,
+        "durationMs": 65757
+      }
+    ]
+  }
 }
