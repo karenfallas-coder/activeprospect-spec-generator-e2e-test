@@ -1,0 +1,25 @@
+{
+  "flow": "Log in, open Retained Certificates and verify the certificates table shows at least one row.",
+  "specName": "q2-live-retained-certificates",
+  "type": "fe",
+  "createdAt": "2026-10-28T18:58:32.074Z",
+  "status": "draft",
+  "validation": {
+    "hash": "31439859b2e8ad3a1bedb08548017537841662d231b2c19e57b8a24755ad2f9f",
+    "required": 3,
+    "passes": 0,
+    "outcome": "failed",
+    "user": "karen.fallas@activeprospect.com",
+    "startedAt": "2026-11-03T22:18:48.508Z",
+    "endedAt": "2026-11-03T22:19:46.749Z",
+    "runs": [
+      {
+        "runId": "7e5e0472-bde2-4d46-9921-3839344c02ab",
+        "at": "2026-11-03T22:19:46.746Z",
+        "user": "karen.fallas@activeprospect.com",
+        "exitCode": 1,
+        "durationMs": 58232
+      }
+    ]
+  }
+}

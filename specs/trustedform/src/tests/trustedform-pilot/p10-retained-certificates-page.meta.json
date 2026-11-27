@@ -1,0 +1,26 @@
+{
+  "flow": "Log in, open Retained Certificates from the sidebar and check that the page heading and the certificates table (or its empty state) are visible.",
+  "specName": "p10-retained-certificates-page",
+  "type": "fe",
+  "createdAt": "2026-11-04T23:10:57.714Z",
+  "createdBy": "karen.fallas@activeprospect.com",
+  "status": "draft",
+  "validation": {
+    "hash": "d22fa5accde8e156c2de6fbe991482720ff057d884b79d2eabde48e16431a4a5",
+    "required": 3,
+    "passes": 0,
+    "outcome": "failed",
+    "user": "karen.fallas@activeprospect.com",
+    "startedAt": "2026-11-04T23:21:04.082Z",
+    "endedAt": "2026-11-04T23:22:16.927Z",
+    "runs": [
+      {
+        "runId": "28776639-bf34-4ccb-a69f-f8c627a1c62a",
+        "at": "2026-11-04T23:22:16.925Z",
+        "user": "karen.fallas@activeprospect.com",
+        "exitCode": 1,
+        "durationMs": 72841
+      }
+    ]
+  }
+}
